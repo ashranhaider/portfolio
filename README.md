@@ -60,7 +60,7 @@ var Ashran = new
 <br><sub>⭐⭐⭐⭐⭐</sub>
 </td>
 <td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=azure" width="65"/>
+<img src="https://skillicons.dev/icons?i=azure" width="50" />
 <br><strong>Azure</strong>
 <br><sub>⭐⭐⭐⭐</sub>
 </td>
