@@ -270,35 +270,6 @@ var Ashran = new
 </div>
 ---
 
-## 📊 GitHub Analytics Dashboard
-
-<div align="center">
-
-### 🔥 Streak & Activity
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=ashranhaider&theme=tokyonight&hide_border=true"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ashranhaider&show_icons=true&theme=tokyonight&hide_border=true"/>
-    </td>
-  </tr>
-</table>
-
-### 📈 Contribution Metrics
-<img src="./metrics.classic.svg" alt="GitHub Metrics"/>
-
-### 🏆 Achievements
-<img src="https://github-profile-trophy.vercel.app/?username=ashranhaider&theme=tokyonight&no-frame=true&margin-w=4&column=7"/>
-
-### 🐍 Contribution Snake
-<img src="https://raw.githubusercontent.com/ashranhaider/ashranhaider/output/snake.svg" alt="snake animation"/>
-
-</div>
-
----
-
 ## 🏆 Education
 
 ### 🎓 Seneca Polytechnic – Toronto, Canada  
