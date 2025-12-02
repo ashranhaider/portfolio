@@ -170,7 +170,7 @@ var Ashran = new
 <br><sub><b>GitHub Actions</b></sub>
 </td>
 <td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=azuredevops" width="55"/>
+<img src="https://skillicons.dev/icons?i=azure" width="50" />
 <br><sub><b>Azure DevOps</b></sub>
 </td>
 <td align="center" width="90">
