@@ -41,116 +41,233 @@ var Ashran = new
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Professional Tech Arsenal
 
-### 🚀 Core Development
 <div align="center">
 
-| Technology | Icon |
-|-----------|------|
-| **C# / .NET 6/7/8** | <img src="https://skillicons.dev/icons?i=dotnet" width="55"/> |
-| **ASP.NET Core Web API** | <img src="https://skillicons.dev/icons?i=cs" width="55"/> |
-| **Entity Framework Core** | <img src="https://skillicons.dev/icons?i=sqlite" width="55"/> |
-| **React (TypeScript)** | <img src="https://skillicons.dev/icons?i=react,ts" width="55"/> |
-| **Angular** | <img src="https://skillicons.dev/icons?i=angular" width="55"/> |
-| **SQL Server** | <img src="https://skillicons.dev/icons?i=mssql" width="55"/> |
-
+### 🎯 Core Backend Expertise
+<div align="center">
+<table style="border-spacing: 10px;">
+<tr>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=dotnet" width="65"/>
+<br><strong>.NET Core</strong>
+<br><sub>⭐⭐⭐⭐⭐</sub>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=cs" width="65"/>
+<br><strong>C#</strong>
+<br><sub>⭐⭐⭐⭐⭐</sub>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=azure" width="65"/>
+<br><strong>Azure</strong>
+<br><sub>⭐⭐⭐⭐</sub>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=aws" width="65"/>
+<br><strong>AWS</strong>
+<br><sub>⭐⭐⭐</sub>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=docker" width="65"/>
+<br><strong>Docker</strong>
+<br><sub>⭐⭐⭐⭐</sub>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=kubernetes" width="65"/>
+<br><strong>Kubernetes</strong>
+<br><sub>⭐⭐⭐</sub>
+</td>
+</tr>
+</table>
 </div>
 
 ---
 
-### ☁️ Cloud & DevOps
+### 💻 Frontend Development
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,githubactions,git,linux" width="400"/>
-
+<table style="border-spacing: 8px;">
+<tr>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=react" width="55"/>
+<br><sub><b>React</b></sub>
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=ts" width="55"/>
+<br><sub><b>TypeScript</b></sub>
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=angular" width="55"/>
+<br><sub><b>Angular</b></sub>
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=javascript" width="55"/>
+<br><sub><b>JavaScript (ES6+)</b></sub>
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=html" width="55"/>
+<br><sub><b>HTML5</b></sub>
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=css" width="55"/>
+<br><sub><b>CSS3</b></sub>
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=bootstrap" width="55"/>
+<br><sub><b>Bootstrap</b></sub>
+</td>
+</tr>
+</table>
 </div>
 
 ---
 
-### 🧪 Testing
+### 🗄️ Databases & Storage
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=dotnet" width="45"/>  
-**xUnit • Moq • Automated Testing • TDD**
-
+<table style="border-spacing: 8px;">
+<tr>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=mssql" width="50"/>
+<br><sub><b>SQL Server</b></sub>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=mysql" width="50"/>
+<br><sub><b>MySQL</b></sub>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=oracle" width="50"/>
+<br><sub><b>Oracle</b></sub>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=mongodb" width="50"/>
+<br><sub><b>MongoDB</b></sub>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=redis" width="50"/>
+<br><sub><b>Redis</b></sub>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=azure" width="50"/>
+<br><sub><b>Azure Storage</b></sub>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=aws" width="50"/>
+<br><sub><b>AWS S3</b></sub>
+</td>
+</tr>
+</table>
 </div>
 
 ---
 
-## 💼 Professional Experience
-
-### 🟦 **Volunteer Consultant & Technical Mentor – Seneca Polytechnic**  
-📍 Toronto, Canada | Jan 2024 – Aug 2025
-
-- Provided peer support for Cloud Architecture, .NET, React & Angular students.  
-- Guided teams on Azure/AWS infrastructure (VMs, VNETs, Storage, SQL, IAM, Monitoring).  
-- Helped configure CI/CD using **Azure DevOps** & **GitHub Actions**.  
-- Assisted with .NET APIs, Docker deployments, and debugging cloud-hosted apps.  
-- Supported teams in documentation, architecture diagrams, cloud governance.
-
----
-
-### 🟩 **Full Stack Developer – Contour (Constellation Software Inc.)**  
-📍 Islamabad, Pakistan | Mar 2023 – Dec 2023
-
-- Developed & optimized **ASP.NET Core APIs** for enterprise SaaS applications.  
-- Built UI screens using **React**, improving UX and performance.  
-- Containerized services using **Docker**, deployed with **Azure DevOps pipelines**.  
-- Applied TDD using **xUnit**, achieving 80%+ coverage.
-
----
-
-### 🟧 **Full Stack Developer – DPL**  
-📍 Islamabad, Pakistan | Aug 2021 – Mar 2023
-
-- Designed microservices-based APIs using **.NET 6 + Clean Architecture**.  
-- Built enterprise dashboards using Angular & Material UI.  
-- Implemented **JWT authentication**, RBAC, and cloud integrations.  
-- Used Azure Functions, Key Vault, Blob Storage for secure cloud workloads.
-
----
-
-### 🟥 **Full Stack Developer – DPL (Healthcare & Fintech Products)**  
-📍 Islamabad, Pakistan | Apr 2019 – Mar 2021
-
-- Built large-scale ASP.NET Core modules for fintech & healthcare products.  
-- Deployed applications on **AWS EC2, RDS, S3**, including autoscaling setups.  
-- Participated in CI/CD, integration fixes, and DDD-based modeling.
+### ⚙️ DevOps, CI/CD & Cloud Infrastructure
+<div align="center">
+<table style="border-spacing: 8px;">
+<tr>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=githubactions" width="55"/>
+<br><sub><b>GitHub Actions</b></sub>
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=azuredevops" width="55"/>
+<br><sub><b>Azure DevOps</b></sub>
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=linux" width="55"/>
+<br><sub><b>Linux</b></sub>
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=bash" width="55"/>
+<br><sub><b>Bash Scripting</b></sub>
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=nginx" width="55"/>
+<br><sub><b>Nginx</b></sub>
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=git" width="55"/>
+<br><sub><b>Git</b></sub>
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
-### 🟫 **ASP.NET Developer – Fincon Services**  
-📍 Islamabad, Pakistan | Feb 2018 – Apr 2019
-
-- Developed internal workflow automation apps.  
-- Optimized SQL Server & MongoDB queries.
+### 🧪 Testing & Quality Engineering
+<div align="center">
+<table style="border-spacing: 8px;">
+<tr>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=dotnet" width="55"/>
+<br><sub><b>xUnit</b></sub>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=dotnet" width="55"/>
+<br><sub><b>Moq</b></sub>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=jest" width="55"/>
+<br><sub><b>Jest</b></sub>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=vitest" width="55"/>
+<br><sub><b>Vitest</b></sub>
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
-### 🟪 **ASP.NET Developer – COMSATS IT Center**  
-📍 Islamabad, Pakistan | Feb 2017 – Oct 2017
-
-- Developed academic management modules.  
-- Improved stored procedures & reporting performance.
+### 🤖 AI & Productivity Tools
+<div align="center">
+<table style="border-spacing: 8px;">
+<tr>
+<td align="center" width="100">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="55"/>
+<br><sub><b>ChatGPT</b></sub>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=github" width="55"/>
+<br><sub><b>GitHub Copilot</b></sub>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=postman" width="55"/>
+<br><sub><b>Postman</b></sub>
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
-## 🏆 Key Achievements
+### 💻 IDEs & Development Environment
+<div align="center">
+<table style="border-spacing: 8px;">
+<tr>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=visualstudio" width="55"/>
+<br><sub><b>Visual Studio</b></sub>
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=vscode" width="55"/>
+<br><sub><b>VS Code</b></sub>
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=webstorm" width="55"/>
+<br><sub><b>WebStorm</b></sub>
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=jetbrains" width="55"/>
+<br><sub><b>Rider</b></sub>
+</td>
+</tr>
+</table>
+</div>
 
-### 🚀 Engineering & Performance
-- Improved API performance using SQL optimization.  
-- Delivered scalable systems following Clean Architecture.  
-- Implemented secure, cloud-ready deployments.
-
-### ☁️ Cloud Excellence
-- Setup Azure/AWS infra for student teams (VMs, SQL, Storage, IAM, Monitoring).  
-- Automated CI/CD pipelines to reduce delivery time.
-
-### 💻 Frontend Strengths
-- Built modern UIs using React & Angular.  
-- Improved performance with caching & optimized API calls.
-
+</div>
 ---
 
 ## 📊 GitHub Analytics Dashboard
