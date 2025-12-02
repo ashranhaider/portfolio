@@ -128,7 +128,7 @@ var Ashran = new
 <table style="border-spacing: 8px;">
 <tr>
 <td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=mssql" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" />
 <br><sub><b>SQL Server</b></sub>
 </td>
 <td align="center" width="100">
@@ -136,7 +136,7 @@ var Ashran = new
 <br><sub><b>MySQL</b></sub>
 </td>
 <td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=oracle" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="50" />
 <br><sub><b>Oracle</b></sub>
 </td>
 <td align="center" width="100">
@@ -260,7 +260,7 @@ var Ashran = new
 <br><sub><b>WebStorm</b></sub>
 </td>
 <td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=jetbrains" width="55"/>
+<img src="https://resources.jetbrains.com/storage/products/company/brand/logos/Rider_icon.svg" width="50" />
 <br><sub><b>Rider</b></sub>
 </td>
 </tr>
